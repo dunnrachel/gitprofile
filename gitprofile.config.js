@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'dunnrachel', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'rachel dunn',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     facebook: '',
@@ -26,7 +26,7 @@ const config = {
     telegram: '',
     website: 'https://arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'rldunn.rachel@gmail.com',
   },
   resume: {
     fileUrl:
@@ -50,17 +50,17 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
+      company: 'Memore',
+      position: 'Brand Manager',
+      from: '2022',
+      to: '2023',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Tribucha Kombucha',
+      position: 'Warehouse & Packing',
+      from: '2021',
+      to: '2023',
       companyLink: 'https://example.com',
     },
   ],
@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Management Information Systems',
+      from: '2021',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Wake Technical Community College',
+      degree: 'Associate of Arts',
+      from: '2018',
+      to: '2020',
     },
   ],
 
