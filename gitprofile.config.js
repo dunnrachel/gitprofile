@@ -12,19 +12,19 @@ const config = {
   },
   social: {
     linkedin: 'rachel dunn',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: ' ',
+    mastodon: ' ',
     facebook: '',
     instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '' '
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: ' ',
+    dev: ' ',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: ' ',
     phone: '',
     email: 'rldunn.rachel@gmail.com',
   },
@@ -66,10 +66,10 @@ const config = {
   ],
   /* certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Introduction to Cybersecurity',
+      body: 'Cisco',
+      year: 'Jan 2024',
+      link: ' '
     },
   ], */
   education: [
